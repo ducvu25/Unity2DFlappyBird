@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfdd622d8b0bcd945b87ea3541e47d0f, type: 3}
+  m_Name: 12
+  m_EditorClassIdentifier: 
+  id: 12
+  name: "B\u1EE5i c\xE2y"
+  hub: {fileID: 750708987, guid: 4d2a4ce56b204ad4fa2ff86d0eecb0f1, type: 3}
+  price: 50
+  charector: {fileID: 6333126399422446328, guid: 99ea183cd1f90814eb99d1c2db2de578, type: 3}
+  timeSpawn: 5
